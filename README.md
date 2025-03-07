@@ -1,2 +1,3 @@
-# site-teste
- Site de Teste para o GitHub
+# Primeiro repositório no GitHub
+
+Aula do professor Júnior Gonçalves
